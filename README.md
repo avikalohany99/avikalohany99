@@ -6,6 +6,8 @@
 
 - I’m currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
 
+- I'm currently learning Mongodb and Node JS.
+
 - Always working on **Data Structures and Algorithms.**
 
 - Reach out to me at **avikalohany99@gmail.com.**
