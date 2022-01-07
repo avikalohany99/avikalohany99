@@ -1,4 +1,4 @@
-  <a href="#"><img width="80%" height="auto" src="https://i.pinimg.com/originals/a6/d4/47/a6d4478872b121f63601412e0c2b45ab.jpg"></a>
+  <a href="#"><img margin-right="0" margin-left="auto" display="block" width="80%" height="auto" src="https://i.pinimg.com/originals/a6/d4/47/a6d4478872b121f63601412e0c2b45ab.jpg"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
 <h3 align="center">I'm a passionate Full Stack Developer. </h3>
