@@ -1,4 +1,4 @@
-  <a href="#"><img width="100%" height="auto" src="https://thumbs.dreamstime.com/b/woman-programmer-sitting-desk-education-work-information-technology-writing-code-developing-programs-process-181072456.jpg" height="75px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/a6/d4/47/a6d4478872b121f63601412e0c2b45ab.jpg" height="75px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
 <h3 align="center">I'm a passionate Full Stack Developer. </h3>
