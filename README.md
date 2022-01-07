@@ -1,16 +1,14 @@
-  <a href="#"><img margin-right="0" margin-left="auto" display="block" width="50%" height="auto" src="https://i.pinimg.com/originals/a6/d4/47/a6d4478872b121f63601412e0c2b45ab.jpg"></a>
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
-<h3 align="left">I'm a passionate Full Stack Developer. </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
+<h3 align="center">I'm a passionate Full Stack Developer. </h3>
 
 
 ## About Me:
 
 - I’m currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
 
-- Always working on improving my **Data Structures and Algorithms.**
+- Always working on **Data Structures and Algorithms.**
 
-- You can reach me at **avikalohany99@gmail.com.**
+- Reach out to me at **avikalohany99@gmail.com.**
 
 - Fun fact **I watch anime and am an avid reader.**
   
