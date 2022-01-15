@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
-<h4 align="center">I'm a passionate Full Stack Developer. </h4>
-
 
 ## About Me:
 
