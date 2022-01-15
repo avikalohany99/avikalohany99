@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- I’m currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
+- Currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
 
 - Reach out to me at **avikalohany99@gmail.com.**
   
