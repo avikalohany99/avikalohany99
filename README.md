@@ -14,6 +14,15 @@
 
 - Fun fact **I watch anime and am an avid reader.**
   
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/avika-lohany-0b4b851b5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/AvikaLohany"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/avikalohany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+
 ## Languages and Tools:
 
 <p align="left"> 
@@ -47,11 +56,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/avika-lohany-0b4b851b5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AvikaLohany"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/avikalohany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
