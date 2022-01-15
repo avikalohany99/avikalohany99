@@ -1,17 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
 
-- Currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
-
-- Reach out to me at **avikalohany99@gmail.com.**
-  
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/avika-lohany-0b4b851b5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AvikaLohany"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-</p>
-
-
 ## Languages and Tools:
 
 <p align="left"> 
