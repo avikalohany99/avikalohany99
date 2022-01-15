@@ -1,18 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
-<h3 align="center">I'm a passionate Full Stack Developer. </h3>
+<h4 align="center">I'm a passionate Full Stack Developer. </h4>
 
 
 ## About Me:
 
 - I’m currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
 
-- I'm currently learning Mongodb and Node JS.
-
-- Always working on **Data Structures and Algorithms.**
-
 - Reach out to me at **avikalohany99@gmail.com.**
-
-- Fun fact **I watch anime and am an avid reader.**
   
 ## Connect with me:
 <p align="left">
