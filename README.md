@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avika</h1>
 
-## About Me:
-
 - Currently working on **[Fitness Tracker.](https://github.com/avikalohany99/MERN-Fitness-Tracker)**
 
 - Reach out to me at **avikalohany99@gmail.com.**
