@@ -20,5 +20,3 @@
 
   <a href="https://github.com/avikalohany99/github-readme-stats"><img alt="Avika Lohany's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikalohany99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/avikalohany99/github-readme-activity-graph"><img alt="Avika Lohany's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=avikalohany99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
